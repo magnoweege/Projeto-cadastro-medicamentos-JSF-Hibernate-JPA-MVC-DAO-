@@ -10,4 +10,5 @@
  - CDI (injeção de dependencia)
  - PostgreSQL
  - Eclipse
- - 
+ 
+ <img src="https://github.com/magnoweege/Estudos-JSF/blob/main/medicamento.PNG">
